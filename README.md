@@ -53,6 +53,18 @@ Our flagship skill. It generates premium, multi-page, mobile-optimized marketing
 
 ---
 
+### [Insta and TikTok Reels Architect](.agents/skills/insta-tiktok-reels)
+A premium workflow for auditing, optimizing, and scripting high-converting, aesthetic short-form videos (Instagram Reels, TikToks, and YouTube Shorts) using cognitive psychology, dynamic pacing, and structured hook-to-coda storytelling.
+
+**Key Design Features:**
+- **"Reels/TikToks Director" Persona**: Balances premium brand aesthetics (vibe) with performance-driven metrics (retention and conversion).
+- - **Phan Tich Quang Cao Kem (Poor Ad Performance Analysis)**: Outputs quantitative metrics (Spend, Inbox, CPA, Hook Rate, CTR Link) to explain performance drops.
+  - - **Phan Tich Creative (First-Second Hook/Hold Analysis)**: Analyzes visual and audio elements to optimize first-second retention.
+    - - **Visual & Audio Beat-Matching**: Synchronizes fast music beats and high-quality sound design overlays.
+     
+      - 
+---
+
 ## 🛠 Upcoming Skills (Incubating)
 
 We are rapidly expanding the hub with new aesthetic-first workflows. **Star this repo to stay updated!**
@@ -60,7 +72,6 @@ We are rapidly expanding the hub with new aesthetic-first workflows. **Star this
 | Skill | Vibe | Focus | Status |
 | :--- | :--- | :--- | :--- |
 | **youtube-thumbnail** | *Dynamic Force* | High-CTR typography and focus-anchor logic. | 🚧 Incubating |
-| **insta-tiktok-reels** | *Rhythmic Pulse* | Hook-first narrative design with beat-matching. | 🚧 Incubating |
 | **instagram-carousel** | *Seamless Flow* | Horizontal continuity and narrative pacing. | 🚧 Incubating |
 
 ---
